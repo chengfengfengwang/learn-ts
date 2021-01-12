@@ -1,2 +1,1 @@
-# learn-ts
-Created with CodeSandbox
+# Vue TypeScript Demo
